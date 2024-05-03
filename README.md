@@ -1,3 +1,7 @@
-# This is my profile for using http://brouter.de/brouter-web navigation. 
+### Optimized Paved Vehicle Routing Profile
+This Brouter profile is designed to for vehicle navigation by prioritizing paved roads and roads with speed limit below 80km/h.
 
-This profile prioritizes fuel efficient path via roads with speed limit not more than 80 km/h. Basically advanced version of "Avoid Highways" setting. 
+### About Brouter:
+Brouter is a versatile routing engine tailored for bicycle and vehicle navigation. It stands out for its ability to generate custom routes based on user-defined profiles, offering flexibility across different modes of transport. 
+
+You can try the profile here https://brouter.de/brouter-web
