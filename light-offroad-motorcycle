@@ -96,7 +96,7 @@ assign onewayspeedlimit = if isbadoneway then 0 else 999
 assign islinktype = highway=motorway_link|trunk_link|primary_link|secondary_link|tertiary_link
 
 assign maxspeed_surface =
-  switch or surface= surface=paved|asphalt|concrete 1
+  switch or surface= surface=paved|asphalt|concrete 0.1
   switch surface=paving_stones|cobblestone|sett 20
   switch surface=fine_gravel 999
   switch surface=gravel 999
